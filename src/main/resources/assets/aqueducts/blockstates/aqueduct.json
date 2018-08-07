@@ -1,0 +1,12 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "aqueducts:aqueduct",
+		"transform": "forge:default-block",
+		"textures": { "bottom": "blocks/stonebrick" }
+	},
+    "variants": {
+		"normal": [{}],
+		"inventory": [{}]
+    }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aqueducts",
+  "name": "Aqueducts",
+  "description": "adds aqueducts for long-range liquid transfer",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BordListian"],
+  "credits": "Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
